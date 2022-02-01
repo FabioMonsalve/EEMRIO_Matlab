@@ -1,5 +1,4 @@
-This code allows to compute the 
-footprint according to the Environmentally Extended Mutiregional Input-Output Methodology (EEMRIO) and realying on World Input Output Database release 2016 (https://www.rug.nl/ggdc/valuechain/wiod/wiod-2016-release). Employment as Persons Engaged, atributed to a bill of Final Demand, are allocated to countries/regions(44) and sectors (56).
+This code allows to compute the CO2 Emissions footprint according to the Environmentally Extended Mutiregional Input-Output Methodology (EEMRIO) and realying on World Input Output Database release 2016 (https://www.rug.nl/ggdc/valuechain/wiod/wiod-2016-release). The emissiones, atributed to a bill of Final Demand, are allocated to countries/regions(44) and sectors (56).
 
 It is necessary to download the following files
 - https://dataverse.nl/api/access/datafile/199104
